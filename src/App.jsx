@@ -27,7 +27,7 @@ function App() {
       </div>
       <p className="read-the-docs">
         Hello Everyone. I'm Md Abdullah. And this is my first React Prectice.
-        Give Me a Hooyah for inspiration!
+        But Some Changes to check my project works. Thanks!
       </p>
     </>
   );
