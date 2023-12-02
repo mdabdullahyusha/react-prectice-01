@@ -1,6 +1,8 @@
+import ContactMain from "./ContactMain";
 import AboutSection from "./component/AboutSection";
 import ExperienceMain from "./component/ExperienceMain";
 import Intro from "./component/Intro";
+import ProjectsMain from "./component/ProjectsMain";
 
 const App = () => {
   return (
@@ -10,6 +12,10 @@ const App = () => {
       <AboutSection />
 
       <ExperienceMain />
+
+      <ProjectsMain />
+
+      <ContactMain />
     </>
   );
 };
