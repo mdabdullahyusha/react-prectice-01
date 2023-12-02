@@ -6,7 +6,7 @@ import { FaEnvelope } from "react-icons/fa";
 const ContactMain = () => {
   return (
     <>
-      <div className="container mx-auto w-1/3">
+      <div className="container mx-auto w-1/3 mb-20">
         <SectionTitle subTitle="Get In Touch" mainTitle="Contact Me" />
         <div className="border border-slate-700 rounded-3xl p-4 flex gap-6 ">
           <div className="flex gap-3">
